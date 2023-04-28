@@ -1,2 +1,4 @@
 # task-manager-node
-Task Manager implemented using Node.js
+To run the project, setup .env and set MONGO_URI variable equal to DB connection string.
+
+Set port value is 5000 to avoid port collisions
